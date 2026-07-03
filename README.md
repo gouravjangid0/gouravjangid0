@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**gouravjangid0/gouravjangid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gourav, a Data Analyst (fresher) based in India. 😄
 
-Here are some ideas to get you started:
+I work with Python, SQL, and Power BI to turn raw data into insights — dashboards, EDA, and a bit of AI on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm building an AI-powered Resume-to-Job Fit Analyzer using Gemini AI and Streamlit.
+
+This profile is where I share my analytics projects, dashboards, and things I'm currently learning. Everything here is built from real datasets, no templates.
+
+
+🔭Tools & Tech
+
+
+Python, SQL, Power BI, Excel
+Pandas, NumPy, Matplotlib
+Google Gemini AI, Streamlit, SQLite
+
+⚡ Fun fact 
+
+Started with "Hello World," now arguing with SQL
+
