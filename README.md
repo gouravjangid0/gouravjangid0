@@ -16,7 +16,7 @@ Python, SQL, Power BI, Excel
 Pandas, NumPy, Matplotlib
 Google Gemini AI, Streamlit, SQLite
 
-⚡ Fun fact 
+⚡ Fun fact
 
 Started with "Hello World," now arguing with SQL
 
